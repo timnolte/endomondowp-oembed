@@ -23,6 +23,7 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       endowp-oembed
  * Domain Path:       /languages
+ * GitHub Plugin URI: timnolte/endowp-oembed
  */
 
 // If this file is called directly, abort.
