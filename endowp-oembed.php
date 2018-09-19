@@ -9,7 +9,7 @@
  *
  * @link              https://www.ndigitals.com/
  * @since             1.0.0
- * @package           Endowp_Oembed
+ * @package           NDS\Endowp_Oembed
  *
  * @wordpress-plugin
  * Plugin Name:       EndoWP oEmbed

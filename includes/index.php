@@ -1,5 +1,10 @@
 <?php
 /**
- * Silence is golden.
+ * Silence is golden
+ *
+ * @package    NDS\Endowp_Oembed
  */
 
+/**
+ * Should remain empty
+ */

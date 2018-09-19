@@ -23,7 +23,7 @@
  * @subpackage Endowp_Oembed/includes
  * @author     Nolte Digital Solutions <support@ndigitals.com>
  */
-class Endowp_Oembed_i18n {
+class Endowp_Oembed_I18n {
 
 
 	/**

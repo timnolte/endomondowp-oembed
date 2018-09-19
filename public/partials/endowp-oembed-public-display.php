@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Provide a public-facing view for the plugin
  *
@@ -8,9 +7,12 @@
  * @link       https://www.ndigitals.com/
  * @since      1.0.0
  *
- * @package    Endowp_Oembed
- * @subpackage Endowp_Oembed/public/partials
+ * @package    NDS\Endowp_Oembed
+ * @subpackage NDS\Endowp_Oembed/public/partials
+ *
+ * This file should primarily consist of HTML with a little bit of PHP.
  */
+
 ?>
 
-<!-- This file should primarily consist of HTML with a little bit of PHP. -->
+<!-- Intentially left blank. -->

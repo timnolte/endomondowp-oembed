@@ -1,13 +1,12 @@
 <?php
-
 /**
  * The public-facing functionality of the plugin.
  *
  * @link       https://www.ndigitals.com/
  * @since      1.0.0
  *
- * @package    Endowp_Oembed
- * @subpackage Endowp_Oembed/public
+ * @package    NDS\Endowp_Oembed
+ * @subpackage NDS\Endowp_Oembed/public
  */
 
 /**
@@ -16,8 +15,8 @@
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the public-facing stylesheet and JavaScript.
  *
- * @package    Endowp_Oembed
- * @subpackage Endowp_Oembed/public
+ * @package    NDS\Endowp_Oembed
+ * @subpackage NDS\Endowp_Oembed/public
  * @author     Nolte Digital Solutions <support@ndigitals.com>
  */
 class Endowp_Oembed_Public {

@@ -1,13 +1,12 @@
 <?php
-
 /**
  * Fired during plugin activation
  *
  * @link       https://www.ndigitals.com/
  * @since      1.0.0
  *
- * @package    Endowp_Oembed
- * @subpackage Endowp_Oembed/includes
+ * @package    NDS\Endowp_Oembed
+ * @subpackage DNS\Endowp_Oembed/includes
  */
 
 /**
@@ -16,8 +15,8 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Endowp_Oembed
- * @subpackage Endowp_Oembed/includes
+ * @package    NDS\Endowp_Oembed
+ * @subpackage NDS\Endowp_Oembed/includes
  * @author     Nolte Digital Solutions <support@ndigitals.com>
  */
 class Endowp_Oembed_Activator {
